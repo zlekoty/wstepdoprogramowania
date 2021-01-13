@@ -1,0 +1,11 @@
+Napisz, które zdania sa prawdą, a które są fałszem:
+1 Instrukcja przypisania (x = 3) nigdy nie generuje żadnych danych wyjściowych (ani w trybie interaktywnym, ani w trybie skryptowym).
+2Instrukcja przypisania (x = 3) nie generuje żadnych danych wyjściowych w trybie interaktywnym, zaś w trybie skrytowym generuje dane wyjściowe.
+3Jeśli w wierszu znajduje się wyrażenie 3 + 'three' interpreter wyznaczy i wyświetli wartość 6.
+4Tryb interaktywny to sposób użycia interpretera języka Python przez wpisywanie kodu w wierszu zachęty.
+5Tryb skryptowy polega na wykonywaniu instrukcji jedna po drugiej.
+1-prawda
+2-fałsz
+3-fałsz
+4-prawda
+5-fałsz
